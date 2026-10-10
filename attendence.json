@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "roll_no": 101,
+    "present_days": 4,
+    "total_days": 7
+  },
+  {
+    "name": "Priya Singh",
+    "roll_no": 102,
+    "present_days": 5,
+    "total_days": 7
+  },
+  {
+    "name": "Aman Verma",
+    "roll_no": 103,
+    "present_days": 3,
+    "total_days": 7
+  },
+  {
+    "name": "Sneha Gupta",
+    "roll_no": 104,
+    "present_days": 4,
+    "total_days": 7
+  },
+  {
+    "name": "Arjun Yadav",
+    "roll_no": 105,
+    "present_days": 2,
+    "total_days": 7
+  }
+]
